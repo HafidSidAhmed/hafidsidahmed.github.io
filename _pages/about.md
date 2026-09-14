@@ -6,12 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. NA
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me_sepia.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 [office number: NA]</p>
-    <p>123 [address: No]</p>
-    <p>Your [Grenoble, 38000]</p>
+    <p>[Grenoble, 38000]</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-PhD at Grenoble Alpes University (France), specializing in signal processing, machine learning and computational neuroscience.
+I am a computational neuroscientist specialized in M/EEG signal processing and machine learning, with a PhD in neuroscience and signal processing from Université Grenoble Alpes.
 
-Currently seeking a postdoctoral position in computational neuroscience.
+My research focuses on extracting meaningful information from human brain activity using electrophysiological recordings. During my PhD, I worked with MEG and EEG to investigate neural correlates of consciousness and hypnotic trance, combining signal processing, time-frequency analysis, source reconstruction and machine learning.
+
+I have experience designing human experiments, conducting MEG/EEG recordings, developing reproducible analysis pipelines, and applying statistical and machine-learning methods to neuroscientific data.
+
+I am currently seeking a postdoctoral position in computational neuroscience, with particular interests in brain decoding, neural biomarkers, cognitive neuroscience, perception and consciousness, and multimodal neuroimaging. I am particularly interested in developing further expertise in OPM-MEG and applying computational methods to clinically and scientifically relevant questions.
