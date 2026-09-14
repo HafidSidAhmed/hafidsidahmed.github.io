@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. NA
 
 profile:
   align: right
-  image: me_sepia.jpg
+  image: me_sepia.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>[Grenoble, 38000]</p>
