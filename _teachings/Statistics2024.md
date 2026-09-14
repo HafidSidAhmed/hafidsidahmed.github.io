@@ -11,7 +11,7 @@ year: 2024
 
 term: Autumn semester
 
-location: Grenoble, France
+location: Université Grenoble Alpes, Grenoble, France
 
 time: 64 teaching hours across four groups
 
