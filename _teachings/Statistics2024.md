@@ -16,7 +16,6 @@ location: Grenoble, France
 time: 64 teaching hours across four groups
 
 course_id: Traitement de données 3
-
 ---
 
 ## Course Overview
@@ -24,13 +23,14 @@ course_id: Traitement de données 3
 This course introduced third-year Psychology students to statistical data analysis and the interpretation of experimental results.
 
 The teaching covered:
+
 - t-tests as a prerequisite for more advanced statistical analyses
 - Analysis of Variance (ANOVA)
 - Repeated-measures ANOVA
 - Statistical data visualisation
 - Interpretation and communication of statistical results
 
-The teaching was delivered to four groups, for a total of 64 teaching hours.  As the scheduled lecture material was not available to students, the tutorial sessions also included structured course instruction covering the core concepts and methods.
+The teaching was delivered to four groups, for a total of 64 teaching hours. As the scheduled lecture material was not available to students, the tutorial sessions also included structured course instruction covering the core concepts and methods.
 
 ## Prerequisites
 
