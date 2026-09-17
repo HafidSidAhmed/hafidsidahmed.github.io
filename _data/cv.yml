@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.5/schema.json
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Hafid Sid-Ahmed
   headline: Computational Neuroscientist
@@ -44,7 +44,7 @@ cv:
 
       - institution: Lycée / CPGE BCPST
         location: France
-        url: ""
+        url: "https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Pierre-de-Fermat"
         area: Biology, Chemistry, Physics, Earth Sciences
         studyType: Preparatory Classes
         start_date: 2017
@@ -212,27 +212,21 @@ cv:
         icon: fa-solid fa-terminal
         keywords: "Git, Version Control, Software Architecture, Data Pipelines, GUI Development, Documentation"
 
-  Professional Goals:
-    - Postdoctoral research
-    - Academic research and teaching
-    - Long-term goal: becoming a university researcher and lecturer
-    - Development of clinical applications of M/EEG and neuroimaging
+    Interests:
+      - name: Professional Interests
+        icon: fa-solid fa-flask
+        keywords: "Teaching, Clinical Research, Computational Neuroscience, M/EEG, OPMs, Brain Decoding, Neuroimaging, BCI, Neurotechnology, Neuromodulation"
 
-  Interests:
-    - name: Professional Interests
-      icon: fa-solid fa-flask
-      keywords: "Teaching, Clinical Research, Computational Neuroscience, M/EEG, OPMs, Brain Decoding, Neuroimaging, Brain-Computer Interfaces, Neurotechnology"
+      - name: Personal Interests
+        icon: fa-solid fa-person-hiking
+        keywords: "Beekeeping, Rock Climbing, Hiking"
 
-    - name: Personal Interests
-      icon: fa-solid fa-person-hiking
-      keywords: "Beekeeping, Rock Climbing, Hiking"
+    Languages:
+      - name: French
+        summary: "Native speaker"
 
-  Languages:
-    - name: French
-      summary: "Native speaker"
+      - name: English
+        summary: "Fluent"
 
-    - name: English
-      summary: "Fluent"
-
-    - name: German
-      summary: "Intermediate level"
+      - name: German
+        summary: "Intermediate level"
