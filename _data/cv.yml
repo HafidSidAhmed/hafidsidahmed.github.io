@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.5/schema.json
 cv:
   name: Hafid Sid-Ahmed
   headline: Computational Neuroscientist
@@ -57,6 +58,7 @@ cv:
       - company: CEA Leti / Clinatec
         position: PhD Researcher in Signal Processing and Computational Neuroscience
         location: Grenoble, France
+        url: "https://theses.fr/s353908"
         start_date: 2022
         end_date: 2026
         summary: Research on M/EEG biomarkers of hypnotic trance and altered states of consciousness, combining experimental neuroscience, signal processing, and machine learning.
@@ -68,7 +70,7 @@ cv:
           - Collaborated with researchers, physicians, engineers, and other multidisciplinary stakeholders.
           - Contributed to scientific publications, conference presentations, and research communications.
 
-      - company: Clinatec
+      - company: CEA Leti / Clinatec
         position: Research Engineer Intern – Brain-Computer Interfaces
         location: Grenoble, France
         start_date: 2022
@@ -83,7 +85,7 @@ cv:
 
       - company: ST Engineering iDirect
         position: Signal Processing / FPGA Engineering Intern
-        location: Belgium
+        location: Sint Niklaas, Belgium
         start_date: 2021
         end_date: 2021
         summary: Development and testing of FPGA-based satellite communication signal-processing solutions.
