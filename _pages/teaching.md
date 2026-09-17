@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Teaching mathematics, statistics, and scientific computing across different educational levels, with a focus on adapting teaching to students’ needs and fostering understanding, autonomy, and engagement.
-nav: true
+nav: false
 nav_order: 6
 calendar: false
 ---
