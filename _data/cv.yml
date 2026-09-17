@@ -11,7 +11,7 @@ cv:
       username: HafidSidAhmed
     - network: LinkedIn
       username: hafid-sid-ahmed
-      url: https://www.linkedin.com/in/hafid-sid-ahmed/
+      # url: https://www.linkedin.com/in/hafid-sid-ahmed/
 
   address:
     street: Somewhere
