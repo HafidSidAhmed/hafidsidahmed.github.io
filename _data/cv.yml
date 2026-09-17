@@ -1,10 +1,10 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Hafid Sid-Ahmed
-  label: Computational Neuroscientist
+  headline: Computational Neuroscientist
   email: hafid.sid-ahmed@outlook.com
   location: Grenoble, France
-  image: ""
-  summary: A French-trained signal processing and machine learning researcher, specializing in computational neuroscience, M/EEG analysis, and brain decoding.
+  # summary: A French-trained signal processing and machine learning researcher, specializing in computational neuroscience, M/EEG analysis, and brain decoding.
 
   social_networks:
     - network: GitHub
@@ -12,13 +12,6 @@ cv:
     - network: LinkedIn
       username: hafid-sid-ahmed
       # url: https://www.linkedin.com/in/hafid-sid-ahmed/
-
-  address:
-    street: Somewhere
-    city: Grenoble
-    region: Isère
-    postalCode: 38000
-    countryCode: FR
 
   sections:
     Education:
@@ -160,7 +153,7 @@ cv:
           - Vincent Auboiroux
         publisher: L’Actualité Chimique
         releaseDate: 2023
-        url: ""
+        url: "https://new.societechimiquedefrance.fr/numero/lintegration-cerebrale-des-reflexes-auditifs-un-biomarqueur-de-lhypnose-p70-n490/"
         summary: Popular science article discussing the integration of auditory reflexes in the brain and their potential use as biomarkers of hypnosis.
 
       - title: "Interface neuronale directe pour piloter le déplacement d’un effecteur"
@@ -170,7 +163,7 @@ cv:
           - Félix Martel
         publisher: European Patent
         releaseDate: 2024
-        url: ""
+        url: "https://data.inpi.fr/brevets/EP4394559?q=#EP4394559"
         summary: Patent describing a direct neural interface for controlling the movement of an effector.
     Skills:
       - name: Signal Processing
