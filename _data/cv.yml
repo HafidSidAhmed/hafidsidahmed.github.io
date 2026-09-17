@@ -1,10 +1,9 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Hafid Sid-Ahmed
   headline: Computational Neuroscientist
   email: hafid.sid-ahmed@outlook.com
   location: Grenoble, France
-  # summary: A French-trained signal processing and machine learning researcher, specializing in computational neuroscience, M/EEG analysis, and brain decoding.
+  summary: A French-trained signal processing and machine learning researcher, specializing in computational neuroscience, M/EEG analysis, and brain decoding.
 
   social_networks:
     - network: GitHub
