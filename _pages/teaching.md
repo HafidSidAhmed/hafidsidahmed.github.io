@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Teaching mathematics, statistics, and scientific computing across different educational levels, with a focus on adapting teaching to students’ needs and fostering understanding, autonomy, and engagement.
-nav: false
+nav: true
 nav_order: 6
 calendar: false
 ---
@@ -14,6 +14,6 @@ In the future, I would like to further develop active and student-centred teachi
 
 I would also like to strengthen the use of formative assessment through online exercises. One approach I am considering is to provide students with automatically generated or varied exercises that can be attempted repeatedly until a defined deadline. Each attempt would use a different version of the exercise, allowing students to learn from their mistakes and progressively improve while reducing the possibility of simply memorising answers. This would provide students with regular feedback while giving me better insight into their difficulties and progression.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+<!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %} -->
 
 {% include courses.liquid %}
