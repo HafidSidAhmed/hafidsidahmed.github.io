@@ -10,13 +10,14 @@ cv:
     - network: GitHub
       username: HafidSidAhmed
     - network: LinkedIn
-      username: https://www.linkedin.com/in/hafid-sid-ahmed/
+      username: hafid-sid-ahmed
+      url: https://www.linkedin.com/in/hafid-sid-ahmed/
 
   address:
     street: Somewhere
     city: Grenoble
     region: Isère
-    postalCode: F-38000
+    postalCode: 38000
     countryCode: FR
 
   sections:
@@ -171,7 +172,6 @@ cv:
         releaseDate: 2024
         url: ""
         summary: Patent describing a direct neural interface for controlling the movement of an effector.
-        note: "EP4,394,559"
     Skills:
       - name: Signal Processing
         level: Expert
