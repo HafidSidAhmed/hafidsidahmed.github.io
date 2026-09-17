@@ -4,7 +4,6 @@ cv:
   headline: Computational Neuroscientist
   email: hafid.sid-ahmed@outlook.com
   location: Grenoble, France
-  summary: A French-trained signal processing and machine learning researcher, specializing in computational neuroscience, M/EEG analysis, and brain decoding.
 
   social_networks:
     - network: GitHub
@@ -141,6 +140,16 @@ cv:
         url: "https://doi.org/10.1109/EMBC53108.2024.10781626"
         summary: Preliminary investigation of mismatch negativity (MMN) as an EEG-based measure of auditory processing during hypnosis.
 
+      - title: "Interface neuronale directe pour piloter le déplacement d’un effecteur"
+        authors:
+          - Hafid Sid-Ahmed
+          - Tetiana Aksenova
+          - Félix Martel
+        publisher: European Patent
+        releaseDate: 2024
+        url: "https://data.inpi.fr/brevets/EP4394559?q=#EP4394559"
+        summary: Patent describing a direct neural interface for controlling the movement of an effector.
+
       - title: "L’intégration cérébrale des réflexes auditifs : un biomarqueur de l’hypnose ?"
         authors:
           - Hafid Sid-Ahmed
@@ -157,15 +166,6 @@ cv:
         url: "https://new.societechimiquedefrance.fr/numero/lintegration-cerebrale-des-reflexes-auditifs-un-biomarqueur-de-lhypnose-p70-n490/"
         summary: Popular science article discussing the integration of auditory reflexes in the brain and their potential use as biomarkers of hypnosis.
 
-      - title: "Interface neuronale directe pour piloter le déplacement d’un effecteur"
-        authors:
-          - Hafid Sid-Ahmed
-          - Tetiana Aksenova
-          - Félix Martel
-        publisher: European Patent
-        releaseDate: 2024
-        url: "https://data.inpi.fr/brevets/EP4394559?q=#EP4394559"
-        summary: Patent describing a direct neural interface for controlling the movement of an effector.
     Skills:
       - name: Signal Processing
         level: Expert
@@ -199,7 +199,7 @@ cv:
 
       - name: Brain-Computer Interfaces
         level: Advanced
-        icon: fa-solid fa-head-side-brain
+        icon: fa-solid fa-terminal
         keywords: "ECoG, Neural Decoding, Real-Time Processing, Target Estimation, Exoskeleton Control"
 
       - name: Embedded Systems
@@ -212,12 +212,27 @@ cv:
         icon: fa-solid fa-terminal
         keywords: "Git, Version Control, Software Architecture, Data Pipelines, GUI Development, Documentation"
 
-    Languages:
-      - name: French
-        summary: "Native speaker"
+  Professional Goals:
+    - Postdoctoral research
+    - Academic research and teaching
+    - Long-term goal: becoming a university researcher and lecturer
+    - Development of clinical applications of M/EEG and neuroimaging
 
-      - name: English
-        summary: "Fluent"
+  Interests:
+    - name: Professional Interests
+      icon: fa-solid fa-flask
+      keywords: "Teaching, Clinical Research, Computational Neuroscience, M/EEG, OPMs, Brain Decoding, Neuroimaging, Brain-Computer Interfaces, Neurotechnology"
 
-      - name: German
-        summary: "Intermediate level"
+    - name: Personal Interests
+      icon: fa-solid fa-person-hiking
+      keywords: "Beekeeping, Rock Climbing, Hiking"
+
+  Languages:
+    - name: French
+      summary: "Native speaker"
+
+    - name: English
+      summary: "Fluent"
+
+    - name: German
+      summary: "Intermediate level"
